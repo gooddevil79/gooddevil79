@@ -18,8 +18,9 @@
 </a>
 <a href="mailto:behroziyan.mhrn@gmail.com" target="blank">
 ![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)
-<a href="[mailto:behroziyan.mhrn@gmail.com](https://www.linkedin.com/in/mehran-behroziyan-420967197)" target="blank">
+<a href="https://www.linkedin.com/in/mehran-behroziyan-420967197" target="blank">
 ![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
+
 </a>
 </p>
 <!--
