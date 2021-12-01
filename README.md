@@ -7,7 +7,6 @@
 ## Language and tools that I know:
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap4-090909?style=for-the-badge&logo=Bootstrap)
 
