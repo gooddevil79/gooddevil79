@@ -48,9 +48,14 @@
 
 ### little story :
 
-<p>They say Disappointment and Failure catches up to everyone,Well, he can certainly try it
-<br> <br>
-I start intresting to computer and programming with Hacking,in college i strat programing with C++ language, but i didn't like this,so i search alot and find my soul mate, Front-end ,and i made a promise to myself,to be one of the best person in this field ... </p>
+<p>
+at the beginning in college, I got acquainted with C++ language and it was my first experience in Programming world that i get into, still, something was misssing and i was a rolling stone, but i found my interest in front-end and web design occupation 
+   </br>
+I studied HTML-CSS for one year and focused on it at first so reached at very good and advanced level, after that i decided to study about CSS frameworks and libraries, so I start to learn BOOTSTRAP v4, as many developers at this field, after CSS and it tools, I started to learn JavaScript programming language and after finishing VANILA JS, DOM and OOP functionality, i could say I'm at a Junior Level of front-end developer but as you know there is many stuff to learn in our lives ;)
+I also learned GIT & GITHUB which is one of nessecary skills in this path and occupation, with a very good coure and I think now I'm good to work in programming teams.
+   </br>
+I, Mehran Behroziyan, am Front end developer with perseverance, effort, intrested to learn more stuff and new experiences and teamworks. 
+    </p>
 
 ##### Intrested in :
 
