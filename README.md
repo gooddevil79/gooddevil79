@@ -1,4 +1,4 @@
-<h1 align="left">Hi there<img src="https://github.com/gooddevil79/gooddevil79/blob/main/assets/Hnet.com-image.gif" width="100px"></h1>
+<h1 align="left">Hi there<img src="https://github.com/gooddevil79/gooddevil79/blob/main/assets/Hnet.com-image.gif" width="50px"></h1>
 
 <h3 align="left">My name is Mehran Behroziyan ,a passionate Junior Front-end developer from Iran, I spending most time coding and studding about Front-end and web design</h3>
 
