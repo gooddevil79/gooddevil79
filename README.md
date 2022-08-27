@@ -11,9 +11,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap4-090909?style=for-the-badge&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
 ### 👨‍💻 I’m currently learning
 
-#### ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
+#### ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 <h3 align="left">:mailbox:You can  Connect with me :</h3>
 <p align="left">
