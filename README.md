@@ -36,7 +36,7 @@
 </a>
 </p>
 <hr>
-<details>
+<!-- <details>
 <summary>
     More stuff about me
 </summary>
@@ -66,7 +66,7 @@ I, Mehran Behroziyan, am Front end developer with perseverance, effort, intreste
 - 🎮🕹 Games
 - 📺📼 Movies & Series
 - 🏖🚗 Travel
-</details>
+</details> -->
 <!--
 **gooddevil79/gooddevil79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
