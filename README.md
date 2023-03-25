@@ -12,6 +12,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
+![JavaScript](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
+
 ### 👨‍💻 I’m currently learning
 
 #### ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
