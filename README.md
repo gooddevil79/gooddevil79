@@ -30,7 +30,6 @@
 <a href="https://wa.me/989217531963" target="blank">
 ![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp)
 </a>
- 
 <a href="mailto:behroziyan.mhrn@gmail.com" target="blank">
 ![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)
  </a>
