@@ -32,16 +32,18 @@
 ![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp)
  
 </a>
-<a href="mailto:behroziyan.mhrn@gmail.com" target="blank">
+ <a href="https://t.me/mhrnb79" target="blank" >
+ ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+ </a>
  
+<a href="mailto:behroziyan.mhrn@gmail.com" target="blank">
+
 ![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)
  
  </a>
  
 <a href="https://www.linkedin.com/in/mehran-behroziyan-420967197" target="blank">
- 
 ![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
- 
 </a>
  
 </p>
