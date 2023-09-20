@@ -4,7 +4,7 @@
 
 <hr>
 
-## Language and tools that I know:
+## skills:
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -15,9 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-### 👨‍💻 I’m currently learning
+![TypeScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=TypeScript)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <h3 align="left">:mailbox:You can  Connect with me :</h3>
 <p align="left">
