@@ -11,6 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-090909?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
+![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![JavaScript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=MUI)
