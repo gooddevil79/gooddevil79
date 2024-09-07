@@ -1,10 +1,6 @@
-<h1 align="left">Hi there<img src="https://github.com/gooddevil79/gooddevil79/blob/main/assets/Hnet.com-image.gif" width="50"></h1>
 
-<h3 align="left">My name is Mehran Behroziyan ,a passionate Front-end developer from Iran, I spending most time coding and studying about Front-end and web design</h3>
-
+## Tech stack:
 <hr>
-
-## skills:
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
