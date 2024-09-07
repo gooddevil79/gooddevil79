@@ -21,17 +21,7 @@
 
 <h3 align="left">📫You can  Connect with me :</h3>
 <p align="left">
-<!-- <a href="https://instagram.com/mhrnb79" target="blank">
 
-<!-- ![instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram) -->
-
-<!-- </a> -->
-
-<a href="https://wa.me/989217531963" target="blank">
- 
-![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp)
- 
-</a>
  
  <a href="https://t.me/mhrnb79" target="blank" >
   
@@ -52,49 +42,4 @@
 </a>
  
 </p>
-<hr>
-<!-- <details>
-<summary>
-    More stuff about me
-</summary>
 
-<br>
-    
-#### Github Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddevil79&hide=contribs,prs&theme=tokyonight)
-
-<hr>
-
-### little story :
-
-<p>
-at the beginning in college, I got acquainted with C++ language and it was my first experience in Programming world that i get into, still, something was misssing and i was a rolling stone, but i found my interest in front-end and web design occupation 
-   </br>
-I studied HTML-CSS for one year and focused on it at first so reached at very good and advanced level, after that i decided to study about CSS frameworks and libraries, so I start to learn BOOTSTRAP v4, as many developers at this field, after CSS and it tools, I started to learn JavaScript programming language and after finishing VANILA JS, DOM and OOP functionality, i could say I'm at a Junior Level of front-end developer but as you know there is many stuff to learn in our lives ;)
-I also learned GIT & GITHUB which is one of nessecary skills in this path and occupation, with a very good coure and I think now I'm good to work in programming teams.
-   </br>
-I, Mehran Behroziyan, am Front end developer with perseverance, effort, intrested to learn more stuff and new experiences and teamworks. 
-    </p>
-
-##### Intrested in :
-
-- 🎧🎶 Music
-- 📚📙 Books
-- 🎮🕹 Games
-- 📺📼 Movies & Series
-- 🏖🚗 Travel
-</details> -->
-<!--
-**gooddevil79/gooddevil79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
