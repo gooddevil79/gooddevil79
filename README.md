@@ -22,12 +22,7 @@
 <h3 align="left">📫You can  Connect with me :</h3>
 <p align="left">
 
- 
- <a href="https://t.me/mhrnb79" target="blank" >
-  
- ![telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)
-  
- </a>
+
  
 <a href="mailto:behroziyan.mhrn@gmail.com" target="blank">
 
